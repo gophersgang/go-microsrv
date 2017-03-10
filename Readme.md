@@ -34,6 +34,7 @@
 - [maniksurtani/quotaservice](https://github.com/maniksurtani/quotaservice) - The purpose of a quota service is to prevent cascading failures in micro-service environments. The service acts as a traffic cop, slowing down traffic where necessary to prevent overloading services. For this to work, remote procedure calls (RPCs) between services consult the quota service before making a call. The service isn’t strictly for RPCs between services, and can even be used to apply quotas to database calls, for example. <br/> ( 2017-03-03 / 236 commits / 3 stars )
 - [mattkanwisher/microservices-book-code](https://github.com/mattkanwisher/microservices-book-code) - Source code to the book Microservices in GO www.microservicesingo.com <br/> ( 2015-08-14 / 2 commits / 8 stars )
 - [micro/examples](https://github.com/micro/examples) - How-to examples of micro. Feel free to contribute <br/> ( 2017-02-21 / 21 commits / 7 stars )
+- [micro/go-grpc](https://github.com/micro/go-grpc) - A micro based gRPC framework for microservices <br/> ( 2017-01-04 / 17 commits / 3 stars )
 - [micro/go-micro](https://github.com/micro/go-micro) - A pluggable RPC framework for microservices <br/> ( 2017-02-25 / 602 commits / 147 stars )
 - [micro/go-plugins](https://github.com/micro/go-plugins) - Plugins for go-micro {registry, broker, codec, transport, ...} <br/> ( 2017-03-01 / 365 commits / 38 stars )
 - [micro/go-web](https://github.com/micro/go-web) - A lightweight HTTP microservice library leveraging go-micro <br/> ( 2016-11-10 / 27 commits / 6 stars )
@@ -88,6 +89,7 @@
 - [microscaling/microscaling](https://github.com/microscaling/microscaling): 2017-01-18 <br/> Microscaling Engine
 - [znly/docker-protobuf](https://github.com/znly/docker-protobuf): 2017-01-11 <br/> All inclusive Protocol Buffer and gRPC suite, powered by Docker and Alpine
 - [pasztorpisti/nano](https://github.com/pasztorpisti/nano): 2017-01-07 <br/> Transport-agnostic testing-friendly nano-framework for go micro-services
+- [micro/go-grpc](https://github.com/micro/go-grpc): 2017-01-04 <br/> A micro based gRPC framework for microservices
 - [moul/chatsvc](https://github.com/moul/chatsvc): 2016-12-27 <br/> :gift: chat micro-service using nats and go-kit (gRPC + http)
 - [moul/acl](https://github.com/moul/acl): 2016-12-27 <br/> :cop: ACL micro-service (gRPC/protobuf + http/json)
 - [moul/translator](https://github.com/moul/translator): 2016-12-17 <br/> :microphone: Translator micro-service
@@ -149,6 +151,7 @@
 - [plimble/micro](https://github.com/plimble/micro): 0.08 MB<br/>  (0.05 MB git / 0.03 MB code)
 - [suicidegang/mail-srv](https://github.com/suicidegang/mail-srv): 0.08 MB<br/>  (0.05 MB git / 0.03 MB code)
 - [monzo/phosphor-go](https://github.com/monzo/phosphor-go): 0.07 MB<br/>  (0.06 MB git / 0.01 MB code)
+- [micro/go-grpc](https://github.com/micro/go-grpc): 0.07 MB<br/>  (0.05 MB git / 0.02 MB code)
 - [peterbourgon/infrastructure](https://github.com/peterbourgon/infrastructure): 0.06 MB<br/>  (0.04 MB git / 0.02 MB code)
 - [desmax74/microservicesingoworkshop](https://github.com/desmax74/microservicesingoworkshop): 0.06 MB<br/>  (0.03 MB git / 0.03 MB code)
 - [jaijiv/uberserver](https://github.com/jaijiv/uberserver): 0.06 MB<br/>  (0.03 MB git / 0.03 MB code)
