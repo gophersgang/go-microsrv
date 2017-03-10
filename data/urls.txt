@@ -22,6 +22,7 @@ https://github.com/micro/go-micro
 https://github.com/micro/go-plugins
 https://github.com/micro/go-web
 https://github.com/micro/micro
+https://github.com/micro/trace-srv
 https://github.com/microscaling/microscaling
 https://github.com/monzo/orchestra
 https://github.com/monzo/phosphor
@@ -32,12 +33,14 @@ https://github.com/moul/boilergen
 https://github.com/moul/chatsvc
 https://github.com/moul/translator
 https://github.com/nicholasjackson/building-microservices-in-go
+https://github.com/opentracing/opentracing-go
 https://github.com/pasztorpisti/nano
 https://github.com/pdxjohnny/microsocket
 https://github.com/peterbourgon/go-microservices
 https://github.com/peterbourgon/infrastructure
 https://github.com/plimble/micro
 https://github.com/romana/core
+https://github.com/sourcegraph/appdash
 https://github.com/suicidegang/mail-srv
 https://github.com/suicidegang/onesignal-srv
 https://github.com/tomogoma/go-commons

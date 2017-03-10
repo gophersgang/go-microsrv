@@ -39,6 +39,7 @@
 - [micro/go-plugins](https://github.com/micro/go-plugins) - Plugins for go-micro {registry, broker, codec, transport, ...} <br/> ( 2017-03-01 / 365 commits / 38 stars )
 - [micro/go-web](https://github.com/micro/go-web) - A lightweight HTTP microservice library leveraging go-micro <br/> ( 2016-11-10 / 27 commits / 6 stars )
 - [micro/micro](https://github.com/micro/micro) - A microservice toolkit for distributed systems development <br/> ( 2017-03-07 / 647 commits / 195 stars )
+- [micro/trace-srv](https://github.com/micro/trace-srv) - A distributed tracing service for microservices {dapper, zipkin, etc} <br/> ( 2016-10-04 / 12 commits / 2 stars )
 - [microscaling/microscaling](https://github.com/microscaling/microscaling) - Microscaling Engine <br/> ( 2017-01-18 / 412 commits / 22 stars )
 - [monzo/orchestra](https://github.com/monzo/orchestra) - Orchestrate Go Services <br/> ( 2016-09-07 / 116 commits / 4 stars )
 - [monzo/phosphor](https://github.com/monzo/phosphor) - Distributed System Tracing in Go <br/> ( 2016-04-29 / 151 commits / 7 stars )
@@ -49,12 +50,14 @@
 - [moul/chatsvc](https://github.com/moul/chatsvc) - :gift: chat micro-service using nats and go-kit (gRPC + http) <br/> ( 2016-12-27 / 7 commits / 0 stars )
 - [moul/translator](https://github.com/moul/translator) - :microphone: Translator micro-service <br/> ( 2016-12-17 / 18 commits / 0 stars )
 - [nicholasjackson/building-microservices-in-go](https://github.com/nicholasjackson/building-microservices-in-go) - Example code to accompany the book building Microservices in go <br/> ( 2017-02-10 / 88 commits / 2 stars )
+- [opentracing/opentracing-go](https://github.com/opentracing/opentracing-go) - OpenTracing API for Go <br/> ( 2017-02-06 / 291 commits / 46 stars )
 - [pasztorpisti/nano](https://github.com/pasztorpisti/nano) - Transport-agnostic testing-friendly nano-framework for go micro-services <br/> ( 2017-01-07 / 1 commits / 1 stars )
 - [pdxjohnny/microsocket](https://github.com/pdxjohnny/microsocket) - A Framework for created mircoservices which communicate through a websocket server <br/> ( 2016-02-22 / 27 commits / 0 stars )
 - [peterbourgon/go-microservices](https://github.com/peterbourgon/go-microservices) - Go microservices workshop example project <br/> ( 2016-11-11 / 98 commits / 17 stars )
 - [peterbourgon/infrastructure](https://github.com/peterbourgon/infrastructure) - My servers, let me show you them <br/> ( 2017-01-20 / 38 commits / 0 stars )
 - [plimble/micro](https://github.com/plimble/micro) - micro service with nats and protobuf <br/> ( 2016-09-05 / 31 commits / 0 stars )
 - [romana/core](https://github.com/romana/core) - Micro services written in Go. <br/> ( 2017-03-08 / 1,200 commits / 6 stars )
+- [sourcegraph/appdash](https://github.com/sourcegraph/appdash) - Application tracing system for Go, based on Google's Dapper. <br/> ( 2016-11-30 / 540 commits / 71 stars )
 - [suicidegang/mail-srv](https://github.com/suicidegang/mail-srv) - Micro mailing service using Postmark API & Consul runtime config <br/> ( 2016-10-30 / 7 commits / 0 stars )
 - [suicidegang/onesignal-srv](https://github.com/suicidegang/onesignal-srv) - Onesignal push notifications microservice built with Go. <br/> ( 2016-11-19 / 2 commits / 0 stars )
 - [tomogoma/go-commons](https://github.com/tomogoma/go-commons) - Common functions for go micro-services <br/> ( 2017-03-07 / 14 commits / 0 stars )
@@ -82,6 +85,7 @@
 - [micro/examples](https://github.com/micro/examples): 2017-02-21 <br/> How-to examples of micro. Feel free to contribute
 - [giantswarm/microkit-example](https://github.com/giantswarm/microkit-example): 2017-02-20 <br/> The microkit-example package implements an opinionated microservice using the microkit framework.
 - [nicholasjackson/building-microservices-in-go](https://github.com/nicholasjackson/building-microservices-in-go): 2017-02-10 <br/> Example code to accompany the book building Microservices in go
+- [opentracing/opentracing-go](https://github.com/opentracing/opentracing-go): 2017-02-06 <br/> OpenTracing API for Go
 - [zenhotels/astranet](https://github.com/zenhotels/astranet): 2017-01-31 <br/> A Go (golang) library for managing highly concurrent independent network streams.
 - [koding/kite](https://github.com/koding/kite): 2017-01-30 <br/> Micro-service framework in Go
 - [graniticio/granitic](https://github.com/graniticio/granitic): 2017-01-28 <br/> Web, micro-services and IoC framework for Golang developers
@@ -94,6 +98,7 @@
 - [moul/acl](https://github.com/moul/acl): 2016-12-27 <br/> :cop: ACL micro-service (gRPC/protobuf + http/json)
 - [moul/translator](https://github.com/moul/translator): 2016-12-17 <br/> :microphone: Translator micro-service
 - [bluefoxcode/rome](https://github.com/bluefoxcode/rome): 2016-12-14 <br/> nats/micro demo
+- [sourcegraph/appdash](https://github.com/sourcegraph/appdash): 2016-11-30 <br/> Application tracing system for Go, based on Google's Dapper.
 - [zenhotels/chanserv](https://github.com/zenhotels/chanserv): 2016-11-24 <br/> Package chanserv is a simple message queue based upon nested Go-lang channels being served using AstraNet.
 - [suicidegang/onesignal-srv](https://github.com/suicidegang/onesignal-srv): 2016-11-19 <br/> Onesignal push notifications microservice built with Go.
 - [moul/boilergen](https://github.com/moul/boilergen): 2016-11-12 <br/> :gift: Reduce boilerplate with customisable `go:generate` templates
@@ -102,6 +107,7 @@
 - [suicidegang/mail-srv](https://github.com/suicidegang/mail-srv): 2016-10-30 <br/> Micro mailing service using Postmark API & Consul runtime config
 - [chashu-code/micro-broker](https://github.com/chashu-code/micro-broker): 2016-10-29 <br/> micro service broker
 - [jaijiv/uberserver](https://github.com/jaijiv/uberserver): 2016-10-22 <br/> Test of go-micro services instantiated in a uberserver
+- [micro/trace-srv](https://github.com/micro/trace-srv): 2016-10-04 <br/> A distributed tracing service for microservices {dapper, zipkin, etc}
 - [monzo/orchestra](https://github.com/monzo/orchestra): 2016-09-07 <br/> Orchestrate Go Services
 - [plimble/micro](https://github.com/plimble/micro): 2016-09-05 <br/> micro service with nats and protobuf
 - [desmax74/microservicesingoworkshop](https://github.com/desmax74/microservicesingoworkshop): 2016-09-01 <br/> Repo for the Google Developer Group Sardegna workshop
@@ -118,6 +124,7 @@
 - [nicholasjackson/building-microservices-in-go](https://github.com/nicholasjackson/building-microservices-in-go): 290.49 MB<br/>  (86.71 MB git / 203.78 MB code)
 - [giantswarm/microkit](https://github.com/giantswarm/microkit): 49.00 MB<br/>  (13.37 MB git / 35.64 MB code)
 - [giantswarm/microkit-example](https://github.com/giantswarm/microkit-example): 48.46 MB<br/>  (10.46 MB git / 37.99 MB code)
+- [bluefoxcode/rome](https://github.com/bluefoxcode/rome): 40.26 MB<br/>  (0.04 MB git / 40.22 MB code)
 - [moul/acl](https://github.com/moul/acl): 38.63 MB<br/>  (5.78 MB git / 32.85 MB code)
 - [moul/translator](https://github.com/moul/translator): 34.08 MB<br/>  (4.36 MB git / 29.72 MB code)
 - [moul/chatsvc](https://github.com/moul/chatsvc): 33.04 MB<br/>  (3.76 MB git / 29.27 MB code)
@@ -129,24 +136,29 @@
 - [micro/go-plugins](https://github.com/micro/go-plugins): 3.62 MB<br/>  (2.84 MB git / 0.79 MB code)
 - [micro/micro](https://github.com/micro/micro): 3.26 MB<br/>  (3.04 MB git / 0.22 MB code)
 - [romana/core](https://github.com/romana/core): 2.64 MB<br/>  (1.79 MB git / 0.85 MB code)
+- [sourcegraph/appdash](https://github.com/sourcegraph/appdash): 2.63 MB<br/>  (2.25 MB git / 0.39 MB code)
 - [monzo/phosphor](https://github.com/monzo/phosphor): 2.33 MB<br/>  (0.82 MB git / 1.51 MB code)
 - [bstaijen/mariadb-for-microservices](https://github.com/bstaijen/mariadb-for-microservices): 1.66 MB<br/>  (1.23 MB git / 0.43 MB code)
 - [dbenque/microservices](https://github.com/dbenque/microservices): 1.43 MB<br/>  (1.26 MB git / 0.18 MB code)
+- [ninibe/netlog](https://github.com/ninibe/netlog): 1.23 MB<br/>  (0.40 MB git / 0.83 MB code)
 - [graniticio/granitic](https://github.com/graniticio/granitic): 1.22 MB<br/>  (0.63 MB git / 0.59 MB code)
 - [micro/go-micro](https://github.com/micro/go-micro): 1.16 MB<br/>  (0.86 MB git / 0.30 MB code)
 - [zenhotels/astranet](https://github.com/zenhotels/astranet): 0.68 MB<br/>  (0.30 MB git / 0.38 MB code)
 - [znly/docker-protobuf](https://github.com/znly/docker-protobuf): 0.57 MB<br/>  (0.56 MB git / 0.02 MB code)
+- [opentracing/opentracing-go](https://github.com/opentracing/opentracing-go): 0.48 MB<br/>  (0.39 MB git / 0.08 MB code)
+- [vulcand/oxy](https://github.com/vulcand/oxy): 0.48 MB<br/>  (0.25 MB git / 0.23 MB code)
 - [monzo/typhon](https://github.com/monzo/typhon): 0.46 MB<br/>  (0.41 MB git / 0.05 MB code)
 - [moul/boilergen](https://github.com/moul/boilergen): 0.38 MB<br/>  (0.13 MB git / 0.24 MB code)
 - [micro/examples](https://github.com/micro/examples): 0.33 MB<br/>  (0.12 MB git / 0.21 MB code)
 - [pasztorpisti/nano](https://github.com/pasztorpisti/nano): 0.29 MB<br/>  (0.08 MB git / 0.21 MB code)
+- [micro/trace-srv](https://github.com/micro/trace-srv): 0.21 MB<br/>  (0.12 MB git / 0.10 MB code)
 - [chashu-code/micro-broker](https://github.com/chashu-code/micro-broker): 0.21 MB<br/>  (0.14 MB git / 0.07 MB code)
 - [monzo/orchestra](https://github.com/monzo/orchestra): 0.15 MB<br/>  (0.11 MB git / 0.04 MB code)
 - [dndungu/rest](https://github.com/dndungu/rest): 0.14 MB<br/>  (0.10 MB git / 0.04 MB code)
 - [mattkanwisher/microservices-book-code](https://github.com/mattkanwisher/microservices-book-code): 0.13 MB<br/>  (0.06 MB git / 0.07 MB code)
+- [joeshaw/gengen](https://github.com/joeshaw/gengen): 0.10 MB<br/>  (0.06 MB git / 0.04 MB code)
 - [zenhotels/chanserv](https://github.com/zenhotels/chanserv): 0.10 MB<br/>  (0.07 MB git / 0.03 MB code)
 - [fffaraz/microdns](https://github.com/fffaraz/microdns): 0.09 MB<br/>  (0.05 MB git / 0.04 MB code)
-- [bluefoxcode/rome](https://github.com/bluefoxcode/rome): 0.09 MB<br/>  (0.04 MB git / 0.04 MB code)
 - [micro/go-web](https://github.com/micro/go-web): 0.08 MB<br/>  (0.06 MB git / 0.02 MB code)
 - [plimble/micro](https://github.com/plimble/micro): 0.08 MB<br/>  (0.05 MB git / 0.03 MB code)
 - [suicidegang/mail-srv](https://github.com/suicidegang/mail-srv): 0.08 MB<br/>  (0.05 MB git / 0.03 MB code)
@@ -166,3 +178,4 @@
 ### Worth looking into
 
     - https://github.com/bluefoxcode/rome
+    - https://github.com/zenhotels/astranet
