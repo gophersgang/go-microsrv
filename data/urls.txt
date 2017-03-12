@@ -11,10 +11,14 @@ https://github.com/fffaraz/microdns
 https://github.com/flowbase/flowbase
 https://github.com/giantswarm/microkit
 https://github.com/giantswarm/microkit-example
+https://github.com/gilmour-libs/gilmour-e-go
+https://github.com/gilmour-libs/goli
+https://github.com/go-kit/kit
 https://github.com/graniticio/granitic
 https://github.com/jaijiv/uberserver
 https://github.com/koding/kite
 https://github.com/maniksurtani/quotaservice
+https://github.com/marc-mbc/ms-sequence-generator
 https://github.com/mattkanwisher/microservices-book-code
 https://github.com/micro/examples
 https://github.com/micro/go-grpc
