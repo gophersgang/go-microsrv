@@ -15,6 +15,7 @@
 
 ### Projects
 <!-- PROJECTS_LIST -->
+- [ayiga/go-kit-middlewarer](https://github.com/ayiga/go-kit-middlewarer) - A utility for generating layers for the go-kit framework <br/> ( 2017-02-19 / 64 commits / 3 stars )
 - [bluefoxcode/rome](https://github.com/bluefoxcode/rome) - nats/micro demo <br/> ( 2016-12-14 / 5 commits / 1 stars )
 - [bstaijen/mariadb-for-microservices](https://github.com/bstaijen/mariadb-for-microservices) - MariaDB for Microservices is a working example on how to create an application using the microservice architectural approach and the MariaDB Server. <br/> ( 2017-03-02 / 101 commits / 0 stars )
 - [chashu-code/micro-broker](https://github.com/chashu-code/micro-broker) - micro service broker <br/> ( 2016-10-29 / 29 commits / 0 stars )
@@ -89,6 +90,7 @@
 - [dndungu/rest](https://github.com/dndungu/rest): 2017-02-24 <br/> A set of restful http handlers for quickly building RESTful services with any database backend.
 - [micro/examples](https://github.com/micro/examples): 2017-02-21 <br/> How-to examples of micro. Feel free to contribute
 - [giantswarm/microkit-example](https://github.com/giantswarm/microkit-example): 2017-02-20 <br/> The microkit-example package implements an opinionated microservice using the microkit framework.
+- [ayiga/go-kit-middlewarer](https://github.com/ayiga/go-kit-middlewarer): 2017-02-19 <br/> A utility for generating layers for the go-kit framework
 - [nicholasjackson/building-microservices-in-go](https://github.com/nicholasjackson/building-microservices-in-go): 2017-02-10 <br/> Example code to accompany the book building Microservices in go
 - [opentracing/opentracing-go](https://github.com/opentracing/opentracing-go): 2017-02-06 <br/> OpenTracing API for Go
 - [zenhotels/astranet](https://github.com/zenhotels/astranet): 2017-01-31 <br/> A Go (golang) library for managing highly concurrent independent network streams.
@@ -161,6 +163,7 @@
 - [micro/examples](https://github.com/micro/examples): 0.33 MB<br/>  (0.12 MB git / 0.21 MB code)
 - [gilmour-libs/gilmour-e-go](https://github.com/gilmour-libs/gilmour-e-go): 0.32 MB<br/>  (0.23 MB git / 0.09 MB code)
 - [pasztorpisti/nano](https://github.com/pasztorpisti/nano): 0.29 MB<br/>  (0.08 MB git / 0.21 MB code)
+- [ayiga/go-kit-middlewarer](https://github.com/ayiga/go-kit-middlewarer): 0.24 MB<br/>  (0.12 MB git / 0.12 MB code)
 - [micro/trace-srv](https://github.com/micro/trace-srv): 0.21 MB<br/>  (0.12 MB git / 0.10 MB code)
 - [chashu-code/micro-broker](https://github.com/chashu-code/micro-broker): 0.21 MB<br/>  (0.14 MB git / 0.07 MB code)
 - [monzo/orchestra](https://github.com/monzo/orchestra): 0.15 MB<br/>  (0.11 MB git / 0.04 MB code)
@@ -195,6 +198,7 @@
 
 
 ###
+  - https://www.reddit.com/r/golang/comments/5tesl9/why_i_recommend_to_avoid_using_the_gokit_library/
   - http://golanguk.com/videos/2016/design-patterns-in-microservices/
   - https://speakerdeck.com/meson10/gilmour-gophercon-london
   - http://golanguk.com/videos/2016/cloud-in-your-cloud/ (microservices at Digital Ocean)

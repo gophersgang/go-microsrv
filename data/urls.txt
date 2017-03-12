@@ -1,3 +1,4 @@
+https://github.com/ayiga/go-kit-middlewarer
 https://github.com/bluefoxcode/rome
 https://github.com/bstaijen/mariadb-for-microservices
 https://github.com/chashu-code/micro-broker
