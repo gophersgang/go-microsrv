@@ -205,3 +205,8 @@
   - http://golanguk.com/videos/2016/cloud-in-your-cloud/ (microservices at Digital Ocean)
   - [Microservices with Gizmo - 2016/01](https://sbin.dk/microservices-with-gizmo/)
 
+### GRPC
+  - https://rakyll.org/grpc-streaming/
+  - https://github.com/mwitkow/grpc-proxy
+  - https://github.com/ridha/grpc-streaming-demo
+  - https://golangnews.com/stories/1915-video-building-high-performance-microservices-with-kubernetes-go-and-grpc-microservices-grpc
