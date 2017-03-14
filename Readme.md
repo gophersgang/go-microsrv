@@ -199,6 +199,9 @@
 
 ###
   - https://www.reddit.com/r/golang/comments/5tesl9/why_i_recommend_to_avoid_using_the_gokit_library/
+  - https://www.reddit.com/r/golang/comments/43fykw/gokit_or_grpcgo/
   - http://golanguk.com/videos/2016/design-patterns-in-microservices/
   - https://speakerdeck.com/meson10/gilmour-gophercon-london
   - http://golanguk.com/videos/2016/cloud-in-your-cloud/ (microservices at Digital Ocean)
+  - [Microservices with Gizmo - 2016/01](https://sbin.dk/microservices-with-gizmo/)
+
