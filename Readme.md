@@ -202,6 +202,7 @@
   - https://www.reddit.com/r/golang/comments/43fykw/gokit_or_grpcgo/
   - http://golanguk.com/videos/2016/design-patterns-in-microservices/
   - https://speakerdeck.com/meson10/gilmour-gophercon-london
+  - [Gophercon India 2016 - Addressing Microservices architecture patterns with Gilmour by Piyush Verma](https://www.youtube.com/watch?v=G_9741n5e5A)
   - http://golanguk.com/videos/2016/cloud-in-your-cloud/ (microservices at Digital Ocean)
   - [Microservices with Gizmo - 2016/01](https://sbin.dk/microservices-with-gizmo/)
   - [Golang UK Conference 2016 - Asim Aslam - Simplifying Building and Managing Microservices with Micro](https://www.youtube.com/watch?v=xspaDovwk34)
