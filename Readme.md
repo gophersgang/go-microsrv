@@ -195,6 +195,11 @@
     - https://github.com/bluefoxcode/rome
     - https://github.com/zenhotels/astranet
 
+### Truss
+  - https://vimeo.com/tunemotion/review/179383959/3efedec58c#comment_192303
+  - https://www.youtube.com/watch?v=jOKfIhq4o6U
+  - https://github.com/TuneLab/go-truss
+
 
 
 ### Go-Kit
