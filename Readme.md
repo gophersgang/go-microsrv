@@ -197,6 +197,10 @@
 
 
 
+### Go-Kit
+  - http://www.ru-rocker.com/2017/04/17/micro-services-using-go-kit-service-discovery/
+
+
 ###
   - https://www.reddit.com/r/golang/comments/5tesl9/why_i_recommend_to_avoid_using_the_gokit_library/
   - https://www.reddit.com/r/golang/comments/43fykw/gokit_or_grpcgo/
