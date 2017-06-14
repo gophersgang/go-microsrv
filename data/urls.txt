@@ -15,6 +15,7 @@ https://github.com/giantswarm/microkit-example
 https://github.com/gilmour-libs/gilmour-e-go
 https://github.com/gilmour-libs/goli
 https://github.com/go-kit/kit
+https://github.com/google/go-microservice-helpers
 https://github.com/graniticio/granitic
 https://github.com/jaijiv/uberserver
 https://github.com/koding/kite
