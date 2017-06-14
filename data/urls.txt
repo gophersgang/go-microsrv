@@ -38,7 +38,6 @@ https://github.com/moul/acl
 https://github.com/moul/boilergen
 https://github.com/moul/chatsvc
 https://github.com/moul/translator
-https://github.com/nicholasjackson/building-microservices-in-go
 https://github.com/opentracing/opentracing-go
 https://github.com/pasztorpisti/nano
 https://github.com/pdxjohnny/microsocket
