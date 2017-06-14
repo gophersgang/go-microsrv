@@ -55,7 +55,6 @@
 - [moul/boilergen](https://github.com/moul/boilergen) - :gift: Reduce boilerplate with customisable `go:generate` templates <br/> ( 2016-11-12 / 34 commits / 0 stars )
 - [moul/chatsvc](https://github.com/moul/chatsvc) - :gift: chat micro-service using nats and go-kit (gRPC + http) <br/> ( 2016-12-27 / 7 commits / 0 stars )
 - [moul/translator](https://github.com/moul/translator) - :microphone: Translator micro-service <br/> ( 2016-12-17 / 18 commits / 0 stars )
-- [nicholasjackson/building-microservices-in-go](https://github.com/nicholasjackson/building-microservices-in-go) - Example code to accompany the book building Microservices in go <br/> ( 2017-05-07 / 101 commits / 4 stars )
 - [opentracing/opentracing-go](https://github.com/opentracing/opentracing-go) - OpenTracing API for Go <br/> ( 2017-05-06 / 295 commits / 59 stars )
 - [pasztorpisti/nano](https://github.com/pasztorpisti/nano) - Transport-agnostic testing-friendly nano-framework for go micro-services <br/> ( 2017-01-07 / 1 commits / 1 stars )
 - [pdxjohnny/microsocket](https://github.com/pdxjohnny/microsocket) - A Framework for created mircoservices which communicate through a websocket server <br/> ( 2016-02-22 / 27 commits / 0 stars )
@@ -89,7 +88,6 @@
 - [monzo/phosphor](https://github.com/monzo/phosphor): 2017-05-29 <br/> Distributed System Tracing in Go
 - [ayiga/go-kit-middlewarer](https://github.com/ayiga/go-kit-middlewarer): 2017-05-19 <br/> A utility for generating layers for the go-kit framework
 - [fffaraz/microdns](https://github.com/fffaraz/microdns): 2017-05-19 <br/> A tiny dockerized DNS server in Go that (almost) always returns the same IP for any query sent to it.
-- [nicholasjackson/building-microservices-in-go](https://github.com/nicholasjackson/building-microservices-in-go): 2017-05-07 <br/> Example code to accompany the book building Microservices in go
 - [opentracing/opentracing-go](https://github.com/opentracing/opentracing-go): 2017-05-06 <br/> OpenTracing API for Go
 - [monzo/typhon](https://github.com/monzo/typhon): 2017-05-02 <br/> Go-based RPC framework
 - [bstaijen/mariadb-for-microservices](https://github.com/bstaijen/mariadb-for-microservices): 2017-04-26 <br/> MariaDB for Microservices is a working example on how to create an application using the microservice architectural approach and the MariaDB Server.
@@ -133,7 +131,6 @@
 
 ### By size
 <!-- SIZE_LIST -->
-- [nicholasjackson/building-microservices-in-go](https://github.com/nicholasjackson/building-microservices-in-go): 363.31 MB<br/>  (98.84 MB git / 264.46 MB code)
 - [dbenque/microservices](https://github.com/dbenque/microservices): 201.40 MB<br/>  (31.97 MB git / 169.43 MB code)
 - [giantswarm/microkit](https://github.com/giantswarm/microkit): 49.14 MB<br/>  (13.50 MB git / 35.64 MB code)
 - [giantswarm/microkit-example](https://github.com/giantswarm/microkit-example): 48.46 MB<br/>  (10.46 MB git / 37.99 MB code)
